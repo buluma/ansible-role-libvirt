@@ -4,7 +4,7 @@ Install and configure libvirt on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-libvirt/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-libvirt/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-libvirt/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-libvirt)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/buluma/libvirt)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/libvirt)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-libvirt.svg)](https://github.com/buluma/ansible-role-libvirt/releases/)|
+|[![github](https://github.com/buluma/ansible-role-libvirt/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-libvirt/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-libvirt/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-libvirt)|[![quality](https://img.shields.io/ansible/quality/58132)](https://galaxy.ansible.com/buluma/libvirt)|[![downloads](https://img.shields.io/ansible/role/d/58132)](https://galaxy.ansible.com/buluma/libvirt)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-libvirt.svg)](https://github.com/buluma/ansible-role-libvirt/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
