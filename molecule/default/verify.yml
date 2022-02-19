@@ -1,0 +1,10 @@
+---
+- name: Verify
+  hosts: all
+  become: yes
+  gather_facts: no
+
+  tasks:
+    - name: see if qemu-io is installed
+      ansible.builtin.command:
+        cmd: qemu-io --version

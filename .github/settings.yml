@@ -1,0 +1,8 @@
+---
+#
+# Ansible managed
+#
+repository:
+  description: Install and configure libvirt on your system.
+  homepage: https://buluma.github.io/
+  topics: libvirt, ansible, molecule, tox, playbook, hacktoberfest
