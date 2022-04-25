@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-libvirt/compare/1.0.1...HEAD)
 
+**Closed issues:**
+
+- build and add to tracker [\#2](https://github.com/buluma/ansible-role-libvirt/issues/2)
+
 **Merged pull requests:**
 
 - Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.3 to 1.0.4 [\#3](https://github.com/buluma/ansible-role-libvirt/pull/3) ([dependabot[bot]](https://github.com/apps/dependabot))
