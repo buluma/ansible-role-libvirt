@@ -1,8 +1,24 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-libvirt/tree/HEAD)
+## [1.0.6](https://github.com/buluma/ansible-role-libvirt/tree/1.0.6) (2023-11-18)
 
-[Full Changelog](https://github.com/buluma/ansible-role-libvirt/compare/1.0.1...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-libvirt/compare/1.0.5...1.0.6)
+
+## [1.0.5](https://github.com/buluma/ansible-role-libvirt/tree/1.0.5) (2023-11-18)
+
+[Full Changelog](https://github.com/buluma/ansible-role-libvirt/compare/1.0.2...1.0.5)
+
+## [1.0.2](https://github.com/buluma/ansible-role-libvirt/tree/1.0.2) (2023-11-18)
+
+[Full Changelog](https://github.com/buluma/ansible-role-libvirt/compare/1.0.4...1.0.2)
+
+## [1.0.4](https://github.com/buluma/ansible-role-libvirt/tree/1.0.4) (2023-11-18)
+
+[Full Changelog](https://github.com/buluma/ansible-role-libvirt/compare/1.0.3...1.0.4)
+
+## [1.0.3](https://github.com/buluma/ansible-role-libvirt/tree/1.0.3) (2023-11-18)
+
+[Full Changelog](https://github.com/buluma/ansible-role-libvirt/compare/1.0.1...1.0.3)
 
 **Closed issues:**
 
