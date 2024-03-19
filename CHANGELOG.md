@@ -6,8 +6,10 @@
 
 **Merged pull requests:**
 
+- Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#21](https://github.com/buluma/ansible-role-libvirt/pull/21) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#20](https://github.com/buluma/ansible-role-libvirt/pull/20) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#19](https://github.com/buluma/ansible-role-libvirt/pull/19) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.3 to 1.0.4 [\#3](https://github.com/buluma/ansible-role-libvirt/pull/3) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.2.0](https://github.com/buluma/ansible-role-libvirt/tree/1.2.0) (2024-01-20)
 
@@ -54,10 +56,6 @@
 **Closed issues:**
 
 - build and add to tracker [\#2](https://github.com/buluma/ansible-role-libvirt/issues/2)
-
-**Merged pull requests:**
-
-- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.3 to 1.0.4 [\#3](https://github.com/buluma/ansible-role-libvirt/pull/3) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.0.1](https://github.com/buluma/ansible-role-libvirt/tree/1.0.1) (2022-02-19)
 
