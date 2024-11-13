@@ -10,7 +10,6 @@
 - Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#21](https://github.com/buluma/ansible-role-libvirt/pull/21) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#20](https://github.com/buluma/ansible-role-libvirt/pull/20) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#19](https://github.com/buluma/ansible-role-libvirt/pull/19) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump buluma/molecule-action from 6.0.1 to 6.0.3 [\#18](https://github.com/buluma/ansible-role-libvirt/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.2.0](https://github.com/buluma/ansible-role-libvirt/tree/1.2.0) (2024-01-20)
 
@@ -18,6 +17,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/molecule-action from 6.0.1 to 6.0.3 [\#18](https://github.com/buluma/ansible-role-libvirt/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#17](https://github.com/buluma/ansible-role-libvirt/pull/17) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.1.0](https://github.com/buluma/ansible-role-libvirt/tree/1.1.0) (2024-01-02)
