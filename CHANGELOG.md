@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-libvirt/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-libvirt/compare/24.3.31...HEAD)
+
+**Closed issues:**
+
+- rebuild action [\#10](https://github.com/buluma/ansible-role-libvirt/issues/10)
+
 ## [24.3.31](https://github.com/buluma/ansible-role-libvirt/tree/24.3.31) (2024-03-30)
 
 [Full Changelog](https://github.com/buluma/ansible-role-libvirt/compare/1.2.0...24.3.31)
