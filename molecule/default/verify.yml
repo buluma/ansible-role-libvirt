@@ -1,11 +1,11 @@
 ---
-- name: Verify
-  hosts: all
-  become: true
-  gather_facts: false
+  - name: Verify
+    hosts: all
+    become: true
+    gather_facts: false
 
-  tasks:
-    - name: See if qemu-io is installed
-      ansible.builtin.command:
-        cmd: qemu-io --version
-      changed_when: false
+    tasks:
+      - name: See if qemu-io is installed
+        ansible.builtin.command:
+          cmd: qemu-io --version
+        changed_when: false
