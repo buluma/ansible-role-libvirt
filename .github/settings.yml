@@ -5,4 +5,4 @@
 repository:
   description: Install and configure libvirt on your system.
   homepage: https://buluma.github.io/
-  topics: libvirt, ansible, molecule, tox, playbook
+  topics: libvirt, ansible, molecule, playbook
