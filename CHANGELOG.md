@@ -8,6 +8,10 @@
 
 - rebuild action [\#10](https://github.com/buluma/ansible-role-libvirt/issues/10)
 
+**Merged pull requests:**
+
+- Bump ansible/ansible-lint from 24.7.0 to 24.10.0 [\#27](https://github.com/buluma/ansible-role-libvirt/pull/27) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [24.3.31](https://github.com/buluma/ansible-role-libvirt/tree/24.3.31) (2024-03-30)
 
 [Full Changelog](https://github.com/buluma/ansible-role-libvirt/compare/1.2.0...24.3.31)
